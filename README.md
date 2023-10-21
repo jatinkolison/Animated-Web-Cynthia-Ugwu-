@@ -1,1 +1,4 @@
-# Animated-Web-Cynthia-Ugwu-
+# Animated-WebSite-Cynthia-Ugwu-
+Tools Used. HTML, CSS, JavaScrip
+Special Thanks To Sheriyans Thay They Taught Me To Make This An Amazing Project
+Thank You So Much Harsh Sir.🙏
